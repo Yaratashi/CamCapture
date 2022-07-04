@@ -48,25 +48,3 @@ while (True):
     
 cap.release()
 cv2.destroyAllWindows()
-
-
-
-
-
-
-
-
-
-
-
-
-
-#print(time.time())
-
-#while(True):
-    #start_time= time.time()
-    #time.sleep(10)
-
-    #run_time=time.time()-start_time
-
-    #print(run_time)
